@@ -1,0 +1,35 @@
+.container{
+	width: 230px;
+	height: 290px
+	background-color: #EEF0F1;
+	border: 1px solid #E4E5E6;
+	float: left;
+	margin: 30px 17px;
+	text-align: center;
+	font-family: arial;
+	font-size: 16px;
+	color: black;
+	border-radius: 5px;
+	-webkit-transition: all 0.7s ease; 
+	transition: all 0.7s ease;
+}
+.container:hover{
+	background-color: #F5F6F7;
+    -webkit-transform:scale(1.2); 
+ 	transform:scale(1.2);
+ 	color: #085497;
+}
+h2 span{
+	display:block;
+	text-align: center;
+	font-size: 60px;
+	margin-bottom: 30px;
+}
+.cursiva{
+	font-style: italic;
+	color:#000000;
+}
+.icon-heart{
+	text-align: center;
+	padding-right: 50px;
+}
